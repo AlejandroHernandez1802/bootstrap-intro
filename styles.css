@@ -1,0 +1,13 @@
+[class*="container"]{
+    background-color: green;
+}
+
+[class*="col"]{
+    background-color: blue;
+    border: solid 2px white;
+    color: white;
+}
+
+.child{
+    background-color: red;
+}
